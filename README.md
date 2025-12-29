@@ -39,17 +39,15 @@ Sistema desenvolvido para atender ao desafio Plusoft, demonstrando habilidades e
 ### ⚙️ [Checkpoint DevOps](https://github.com/EnRico-94-git/Checkpoint2_DevOps)
 Projetos focados em práticas modernas de DevOps, CI/CD e automação.
 
-## 📊 Estatísticas GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EnRico-94-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EnRico-94-git&layout=compact&theme=tokyonight)
-
 ## 🎓 Formação
 
 **FIAP - Faculdade de Informática e Administração Paulista**
 - Foco em desenvolvimento Full Stack
 - Participação ativa em Global Solutions e desafios corporativos
+
+**Escola Técnica SENAI "Roberto Simonsen - Curso Técnico em Engenharia Mecatrônica**
+- Programação em C# e C++
+- Aprendizado em automação de projetos
 
 ## 🌱 Atualmente aprendendo
 
