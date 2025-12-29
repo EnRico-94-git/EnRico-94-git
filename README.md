@@ -68,7 +68,7 @@ Acredito em código limpo, boas práticas e na importância de projetos que reso
 
 - 💼 LinkedIn: 
 - 📧 Email: egaldino2004@gmail.com
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://github.com/EnRico-94-git
 
 ## ⚡ Fun Facts
 
