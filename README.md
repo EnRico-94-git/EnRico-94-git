@@ -71,7 +71,7 @@ Acredito em código limpo, boas práticas e na importância de projetos que reso
 
 - 💼 LinkedIn: https://www.linkedin.com/in/enrico-do-nascimento-ferreira-galdino/
 - 📧 Email: egaldino2004@gmail.com
-- 🌐 Portfolio: https://github.com/EnRico-94-git
+- 🌐 Portfolio: [https://github.com/EnRico-94-git](https://nartuz-team.github.io/EnricoNFG/)
 
 ## ⚡ Fun Facts
 
